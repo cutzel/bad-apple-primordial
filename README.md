@@ -2,7 +2,7 @@
 
 ## there are usage guides inside folders
 
-this shit is provided as is. i made for a goofy video, go through the code ONLY if you so wish to
+this shit is provided as is. i made it for a goofy video, go through the code ONLY if you so wish to
 
 ### why?
 
