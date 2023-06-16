@@ -3,7 +3,7 @@
 ## 1. Turn the video into a sequence of .png files
 
 ### Warning! This will spam the folder you are in right now
-`ffmpeg -i input.mp4 frame%05d.png`
+`ffmpeg -i input.mp4 -vf "scale=56:40" frame%05d.png`
 
 ## 2. Put converted files into the `pics` folder
 not there? create it.
